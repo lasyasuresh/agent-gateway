@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+data/outbox.jsonl
+data/customers.db
+results/*.png
